@@ -1,0 +1,17 @@
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Igra sa dugmetom\Igra sa dugmetom\bin\Debug\net6.0-windows\Igra sa dugmetom.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Igra sa dugmetom\Igra sa dugmetom\bin\Debug\net6.0-windows\Igra sa dugmetom.deps.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Igra sa dugmetom\Igra sa dugmetom\bin\Debug\net6.0-windows\Igra sa dugmetom.runtimeconfig.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Igra sa dugmetom\Igra sa dugmetom\bin\Debug\net6.0-windows\Igra sa dugmetom.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Igra sa dugmetom\Igra sa dugmetom\bin\Debug\net6.0-windows\Igra sa dugmetom.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Igra sa dugmetom\Igra sa dugmetom\obj\Debug\net6.0-windows\Igra sa dugmetom.csproj.AssemblyReference.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Igra sa dugmetom\Igra sa dugmetom\obj\Debug\net6.0-windows\Igra_sa_dugmetom.Form1.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Igra sa dugmetom\Igra sa dugmetom\obj\Debug\net6.0-windows\Igra sa dugmetom.csproj.GenerateResource.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Igra sa dugmetom\Igra sa dugmetom\obj\Debug\net6.0-windows\Igra sa dugmetom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Igra sa dugmetom\Igra sa dugmetom\obj\Debug\net6.0-windows\Igra sa dugmetom.AssemblyInfoInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Igra sa dugmetom\Igra sa dugmetom\obj\Debug\net6.0-windows\Igra sa dugmetom.AssemblyInfo.cs
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Igra sa dugmetom\Igra sa dugmetom\obj\Debug\net6.0-windows\Igra sa dugmetom.csproj.CoreCompileInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Igra sa dugmetom\Igra sa dugmetom\obj\Debug\net6.0-windows\Igra sa dugmetom.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Igra sa dugmetom\Igra sa dugmetom\obj\Debug\net6.0-windows\refint\Igra sa dugmetom.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Igra sa dugmetom\Igra sa dugmetom\obj\Debug\net6.0-windows\Igra sa dugmetom.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Igra sa dugmetom\Igra sa dugmetom\obj\Debug\net6.0-windows\Igra sa dugmetom.genruntimeconfig.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Igra sa dugmetom\Igra sa dugmetom\obj\Debug\net6.0-windows\ref\Igra sa dugmetom.dll
